@@ -16,3 +16,4 @@ Explanation:
 The program calculates the number of usable IP addresses based on the subnet CIDR. It then compares that value with the number of required devices to determine whether the subnet is large enough and reports any extra or missing IP addresses. The compute environment selector uses the number of users, budget, and high availability requirement to recommend an AWS deployment option.
 
 Created for INFO 300 assignment.
+Add input validation and rerun menu
