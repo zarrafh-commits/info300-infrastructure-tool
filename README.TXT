@@ -17,3 +17,4 @@ The program calculates the number of usable IP addresses based on the subnet CID
 
 Created for INFO 300 assignment.
 Add input validation and rerun menu
+Clean up output formatting
