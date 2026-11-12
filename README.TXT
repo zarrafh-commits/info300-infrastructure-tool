@@ -5,7 +5,7 @@ INFO 300
 SETUP AND RUN
 Install Node.js and npm. In this project folder run:
   npm install
-  npm start
+  node index.js
 Choose 1 for the Subnet Host Checker, 2 for the Compute Environment
 Selector, or 3 to exit. After a calculation, answer yes to run again.
 
